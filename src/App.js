@@ -8,7 +8,7 @@ import TvPage from "./pages/TvPage";
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<MainPage />} />
+      <Route path={`/${process.env.REACT_APP_HOST}`} element={<MainPage />} />
       <Route path="/tv" element={<TvPage />} />
       <Route path="/movie/:id" element={<MovieDetail />} />
       <Route path="/tv/:id" element={<TvDetail />} />
