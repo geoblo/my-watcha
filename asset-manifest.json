@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-watcha/static/css/main.4c316b76.css",
+    "main.js": "/my-watcha/static/js/main.962743dd.js",
+    "static/js/787.5bbf980e.chunk.js": "/my-watcha/static/js/787.5bbf980e.chunk.js",
+    "index.html": "/my-watcha/index.html",
+    "main.4c316b76.css.map": "/my-watcha/static/css/main.4c316b76.css.map",
+    "main.962743dd.js.map": "/my-watcha/static/js/main.962743dd.js.map",
+    "787.5bbf980e.chunk.js.map": "/my-watcha/static/js/787.5bbf980e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c316b76.css",
+    "static/js/main.962743dd.js"
+  ]
+}
